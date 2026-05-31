@@ -5,7 +5,7 @@
 #$ KEYWORDS: bluebackfpv, modes, switches
 #$ AUTHOR: BluebackFPV
 #$ PARSER: MARKED
-#$ DESCRIPTION: Standard BluebackFPV switch assignments.
+#$ DESCRIPTION: Standard BluebackFPV switch assignments for arm, angle, horizon, beeper, and turtle mode.
 
 aux 0 0 0 1925 2100 0 0
 aux 1 1 1 1875 2100 0 0
