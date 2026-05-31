@@ -1,4 +1,4 @@
-#$ CATEGORY: Rates
+#$ CATEGORY: rates
 #$ STATUS: TESTING
 #$ TITLE: BluebackFPV Actual Rates
 
