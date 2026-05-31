@@ -1,8 +1,12 @@
-#$ CATEGORY: rates
-#$ STATUS: TESTING
 #$ TITLE: BluebackFPV Actual Rates
-
-rateprofile 0
+#$ FIRMWARE_VERSION: 2025.12
+#$ CATEGORY: RATES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: bluebackfpv, actual rates
+#$ AUTHOR: BluebackFPV
+#$ PARSER: MARKED
+#$ DESCRIPTION: BluebackFPV standard Actual Rates used across freestyle and micro quad builds.
+#$ WARNING: Select the rate profile you wish to overwrite before applying this preset.
 
 set rates_type = ACTUAL
 
