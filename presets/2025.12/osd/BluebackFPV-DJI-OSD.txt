@@ -1,6 +1,11 @@
-#$ CATEGORY: osd
-#$ STATUS: TESTING
 #$ TITLE: BluebackFPV DJI OSD
+#$ FIRMWARE_VERSION: 2025.12
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: bluebackfpv, dji, o4, goggles 3
+#$ AUTHOR: BluebackFPV
+#$ PARSER: MARKED
+#$ DESCRIPTION: BluebackFPV HD OSD layout for DJI O4 and Goggles 3.
 
 feature OSD
 
