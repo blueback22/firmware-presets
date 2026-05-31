@@ -1,0 +1,9 @@
+#$ CATEGORY: other
+#$ STATUS: TESTING
+#$ TITLE: BluebackFPV Modes
+
+aux 0 0 0 1925 2100 0 0
+aux 1 1 1 1875 2100 0 0
+aux 2 2 1 1375 1625 0 0
+aux 3 13 2 1875 2100 0 0
+aux 4 35 3 1900 2100 0 0
