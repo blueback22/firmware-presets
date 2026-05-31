@@ -6,6 +6,7 @@
 #$ AUTHOR: BluebackFPV
 #$ PARSER: MARKED
 #$ DESCRIPTION: BluebackFPV HD OSD layout for DJI O4 and Goggles 3.
+#$ INCLUDE: presets/2025.12/osd/defaults.txt
 
 feature OSD
 
