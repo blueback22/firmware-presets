@@ -2,13 +2,16 @@
 #$ FIRMWARE_VERSION: 2025.12
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: bluebackfpv, actual rates
+#$ KEYWORDS: bluebackfpv, actual rates, freestyle, micro
 #$ AUTHOR: BluebackFPV
 #$ PARSER: MARKED
 #$ DESCRIPTION: BluebackFPV standard Actual Rates used across freestyle and micro quad builds.
-#$ WARNING: Select the rate profile you wish to overwrite before applying this preset.
+#$ WARNING: Select the rate profile you want to overwrite before applying this preset.
+
+#$ INCLUDE: presets/2025.12/rates/defaults.txt
 
 set rates_type = ACTUAL
+set quickrates_rc_expo = OFF
 
 set thr_mid = 45
 set thr_expo = 20
@@ -24,3 +27,7 @@ set yaw_expo = 30
 set roll_srate = 90
 set pitch_srate = 90
 set yaw_srate = 75
+
+set roll_rate_limit = 1998
+set pitch_rate_limit = 1998
+set yaw_rate_limit = 1998
